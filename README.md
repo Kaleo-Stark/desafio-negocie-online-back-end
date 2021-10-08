@@ -1,5 +1,5 @@
 # Desafio Negocie Online Back-End
-API feita com ASP.NET core para se conectar e fazer consultas em um banco de dados Postgres utilizando Dapper.
+API feita com ASP.NET Core para se conectar e fazer consultas em um banco de dados Postgres utilizando Dapper.
 
 Nesse projeto a API é responsavel por receber e salva dados relacionados a um CEP, esses dados são enviados por um [Front-End feito em Angular](https://github.com/Kaleo-Stark/desafio-negocie-online-front-end), após o recebimento na API os dados são salvos em um banco de dados Postgres, essses dados também podem ser acessados pela API.
 
