@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZpRlRoHBAYzJKhXXJOW7iF47RB+8ZfQ0UM4EJLGUGYUzoQ5hweYiK7K6y7D9jV7PTBWt4/N9YQF8rUJpZR7QuQ==",
+  "success": true,
+  "projectFilePath": "/home/kaleostark/Documentos/github/desafio-negocie-online-back-end/desafio-negocie-online-back-end.csproj",
+  "expectedPackageFiles": [
+    "/home/kaleostark/.nuget/packages/dapper/2.0.90/dapper.2.0.90.nupkg.sha512",
+    "/home/kaleostark/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/kaleostark/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/kaleostark/.nuget/packages/npgsql/5.0.10/npgsql.5.0.10.nupkg.sha512",
+    "/home/kaleostark/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/kaleostark/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/kaleostark/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/kaleostark/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/home/kaleostark/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

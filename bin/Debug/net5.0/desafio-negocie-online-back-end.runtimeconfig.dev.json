@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/kaleostark/.dotnet/store/|arch|/|tfm|",
+      "/home/kaleostark/.nuget/packages"
+    ]
+  }
+}
